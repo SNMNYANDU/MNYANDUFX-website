@@ -12,14 +12,14 @@
 }
 
 
-nav{
+.nav{
     display: flex;
     padding: 2% 4%;
     justify-content: space-between;
     align-items:center;
 }
 
-nav img{
+.nav img{
     width: 100px;
 }
 .nav-links{
@@ -33,7 +33,7 @@ nav img{
     position:relative;
 }
 .nav-links ul li a{
-    color: floralwhite;
+    color: #floralwhite;
     text-decoration:none;
     font-size: 13px;
 }
@@ -147,8 +147,9 @@ footer.h4{
 }
 footer.h4{
     margin-bottom: 15px;
-    margin-top: 25px;
+    margin-top: 75px;
     font-weight: 600;
+    aline-text: center:
  
    
     

@@ -78,6 +78,7 @@
     background: transparent;
     position: relative;
     cursor:pointer;
+    display-radius: 36px;
 }
 .hero-btn:hover{
     border:1px solid #blue;

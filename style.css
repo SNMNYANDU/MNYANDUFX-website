@@ -33,7 +33,7 @@
     position:relative;
 }
 .nav-links ul li a{
-    color: #floralwhite;
+    color: #fff;
     text-decoration:none;
     font-size: 13px;
 }
@@ -42,7 +42,7 @@
     content: '';
     width: 0%;
     height: 2px;
-    background: #fff;
+    background: #ff000;
     display: block;
     margin: auto;
     transition: 0.5s;
